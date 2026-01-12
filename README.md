@@ -2,9 +2,9 @@
 
 # 👨‍💻 Hi, I'm Mickael!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+code;Always+learning;Building+innovative+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+code;Always+learning;Building+innovative+solutions" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-A855F7?style=for-the-badge)](https://krapaud.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-A855F7?style=for-the-badge)](https://mickael-mur.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/krapaud?label=Follow&style=social)](https://github.com/krapaud)
 
 </div>
@@ -13,14 +13,14 @@
 
 ## 🚀 About Me
 
-<img align="right" src="profile-picture.jpeg" alt="Krapaud" width="200" style="border-radius: 50%; border: 4px solid #A855F7;" />
+<img align="right" src="profile-picture.jpeg" alt="Mickael" width="200" style="border-radius: 50%; border: 4px solid #A855F7;" />
 
 ```typescript
-const Mickael = {
-    location: "France",
+const mickael = {
+    location: "France 🇫🇷",
     education: "Holberton School",
     currentFocus: ["Full Stack Development", "Backend APIs", "Database Design"],
-    learning: ["Python", "JavaScript", "ES6", "NoSQL", "TypeScript"],
+    learning: ["Python", "JavaScript", "Docker", "NoSQL", "TypeScript"],
     goals: "Building scalable web applications",
     hobbies: ["Coding", "Learning new technologies", "Open Source"]
 };
@@ -69,54 +69,42 @@ const Mickael = {
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krapaud&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krapaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krapaud&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krapaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krapaud&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" alt="Contribution Graph"/>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krapaud&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 ## 🌟 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Simple Shell</h3>
-        <div align="center">
-          <a href="https://github.com/krapaud/holberton-simple_shell" target="_blank">
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krapaud&repo=holberton-simple_shell&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simple Shell" />
-          </a>
-          <p><strong>C Programming</strong> - Unix shell implementation with command execution, environment variables, and built-in commands</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">HBNB - AirBnB Clone</h3>
-        <div align="center">
-          <a href="https://github.com/krapaud/holbertonschool-hbnb" target="_blank">
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krapaud&repo=holbertonschool-hbnb&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HBNB" />
-          </a>
-          <p><strong>Python, Flask, SQLAlchemy</strong> - Full-stack web application clone of AirBnB with RESTful API and database integration</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### [🐚 Simple Shell](https://github.com/krapaud/holberton-simple_shell)
+**C Programming** - Unix shell implementation with command execution, environment variables, and built-in commands
+
+### [🏠 HBNB - AirBnB Clone](https://github.com/krapaud/holbertonschool-hbnb)
+**Python, Flask, SQLAlchemy** - Full-stack web application clone of AirBnB with RESTful API and database integration
+
+### [🐳 Softy Pinko Docker](https://github.com/krapaud/holbertonschool-softy-pinko-docker)
+**Docker, DevOps** - Dockerized web application deployment project
+
+### [🎃 Hackathon Syntax Horror](https://github.com/krapaud/hackaton-syntax-horror)
+**Python** - Hackathon project exploring creative coding solutions
 
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/krapaud)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://krapaud.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krapaud/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@krapaud.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mickael-mur.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickael-mur-b13035371/)
 
 </div>
 
@@ -124,11 +112,13 @@ const Mickael = {
 
 <div align="center">
 
-<h3>💭 Developer Quote</h3>
+### 💭 Random Developer Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<br/><br/>
+### 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=krapaud&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
