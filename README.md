@@ -72,8 +72,8 @@ const Mickael = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krapaud&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krapaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krapaud&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krapaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -91,7 +91,7 @@ const Mickael = {
         <h3 align="center">Simple Shell</h3>
         <div align="center">
           <a href="https://github.com/krapaud/holberton-simple_shell" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holberton-simple_shell&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simple Shell" />
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krapaud&repo=holberton-simple_shell&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simple Shell" />
           </a>
           <p><strong>C Programming</strong> - Unix shell implementation with command execution, environment variables, and built-in commands</p>
         </div>
@@ -100,7 +100,7 @@ const Mickael = {
         <h3 align="center">HBNB - AirBnB Clone</h3>
         <div align="center">
           <a href="https://github.com/krapaud/holbertonschool-hbnb" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holbertonschool-hbnb&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HBNB" />
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=krapaud&repo=holbertonschool-hbnb&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HBNB" />
           </a>
           <p><strong>Python, Flask, SQLAlchemy</strong> - Full-stack web application clone of AirBnB with RESTful API and database integration</p>
         </div>
