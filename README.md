@@ -71,18 +71,17 @@ const mickael = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krapaud&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krapaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krapaud&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krapaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+</p>
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krapaud&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=krapaud&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 ## 🌟 Featured Projects
 
