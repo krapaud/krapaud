@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+code;Always+learning;Building+innovative+solutions" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-A855F7?style=for-the-badge)](https://mickael-mur.github.io)
-[![GitHub followers](https://img.shields.io/github/followers/mickael-mur?label=Follow&style=social)](https://github.com/mickael-mur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-A855F7?style=for-the-badge)](https://krapaud.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/krapaud?label=Follow&style=social)](https://github.com/krapaud)
 
 </div>
 
@@ -13,10 +13,10 @@
 
 ## 🚀 About Me
 
-<img align="right" src="profile-picture.jpeg" alt="Mickael" width="200" style="border-radius: 50%; border: 4px solid #A855F7;" />
+<img align="right" src="profile-picture.jpeg" alt="Krapaud" width="200" style="border-radius: 50%; border: 4px solid #A855F7;" />
 
 ```typescript
-const mickael = {
+const Mickael = {
     location: "France",
     education: "Holberton School",
     currentFocus: ["Full Stack Development", "Backend APIs", "Database Design"],
@@ -72,14 +72,14 @@ const mickael = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mickael-mur&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickael-mur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krapaud&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krapaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mickael-mur&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krapaud&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" alt="Contribution Graph"/>
 </div>
 
 ## 🌟 Featured Projects
@@ -90,8 +90,8 @@ const mickael = {
       <td width="50%">
         <h3 align="center">Simple Shell</h3>
         <div align="center">
-          <a href="https://github.com/mickael-mur/holberton-simple_shell" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=holberton-simple_shell&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simple Shell" />
+          <a href="https://github.com/krapaud/holberton-simple_shell" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holberton-simple_shell&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simple Shell" />
           </a>
           <p><strong>C Programming</strong> - Unix shell implementation with command execution, environment variables, and built-in commands</p>
         </div>
@@ -99,8 +99,8 @@ const mickael = {
       <td width="50%">
         <h3 align="center">HBNB - AirBnB Clone</h3>
         <div align="center">
-          <a href="https://github.com/mickael-mur/holbertonschool-hbnb" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=holbertonschool-hbnb&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HBNB" />
+          <a href="https://github.com/krapaud/holbertonschool-hbnb" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holbertonschool-hbnb&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HBNB" />
           </a>
           <p><strong>Python, Flask, SQLAlchemy</strong> - Full-stack web application clone of AirBnB with RESTful API and database integration</p>
         </div>
@@ -113,10 +113,10 @@ const mickael = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mickael-mur)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://mickael-mur.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickael-mur-b13035371/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mickael-mur.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/krapaud)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://krapaud.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krapaud/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@krapaud.dev)
 
 </div>
 
