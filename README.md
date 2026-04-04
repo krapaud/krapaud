@@ -84,18 +84,82 @@ const mickael = {
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Mnesya](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=mnesya&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/mnesya)
-[![Invozy](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=invozy-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/invozy-project)
+### [📱 Mnesya](https://github.com/krapaud/mnesya)
 
-[![Holbies Learning Hub](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holbies-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/holbies-project)
-[![CyberSecurity](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holbertonschool-cybersecurity&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/holbertonschool-cybersecurity)
+Mobile reminder app for elderly people and their caregivers — full REST API backend with caregiver management
 
-[![HBNB AirBnB Clone](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holbertonschool-hbnb&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/holbertonschool-hbnb)
-[![Simple Shell](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holberton-simple_shell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/holberton-simple_shell)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### [🧾 Invozy](https://github.com/krapaud/invozy-project)
+
+SaaS invoicing for French freelancers — quotes, PDF export, Factur-X EN 16931, Gmail OAuth, Google Calendar sync
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🧠 Holbies Learning Hub](https://github.com/krapaud/holbies-project)
+
+Interactive quiz system — 50+ questions, AI-powered grading, performance tracking, Matrix theme
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Powered-A855F7?style=flat&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [🔐 CyberSecurity](https://github.com/krapaud/holbertonschool-cybersecurity)
+
+CyberSecurity curriculum — network security, vulnerabilities, and offensive/defensive tools
+
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🏠 HBNB — AirBnB Clone](https://github.com/krapaud/holbertonschool-hbnb)
+
+Full-stack AirBnB clone with RESTful API and database integration
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [🐚 Simple Shell](https://github.com/krapaud/holberton-simple_shell)
+
+Unix shell implementation with command execution, environment variables, and built-in commands
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
 
 ## Activity
 
