@@ -1,10 +1,11 @@
 <div align="center">
 
-# Hi, I'm Mickael
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Mickael&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Junior%20Software%20Engineer%20%7C%20CyberSecurity%20Apprentice&descAlignY=58&descSize=18" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;CyberSecurity+Apprentice;Full+Stack+Developer;Always+learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;CyberSecurity+Apprentice;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-A855F7?style=for-the-badge)](https://krapaud.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krapaud.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickael-mur-b13035371/)
 [![GitHub followers](https://img.shields.io/github/followers/krapaud?label=Follow&style=social)](https://github.com/krapaud)
 
 </div>
@@ -28,6 +29,17 @@ const mickael = {
 ```
 
 <br clear="right"/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krapaud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krapaud&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krapaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff&langs_count=8" alt="Top Languages" height="130" />
+
+</div>
 
 ## Tech Stack
 
@@ -72,37 +84,24 @@ const mickael = {
 
 ## Featured Projects
 
-### [📱 Mnesya](https://github.com/krapaud/mnesya)
+<div align="center">
 
-**React Native, Expo, FastAPI, PostgreSQL** - Mobile reminder application for elderly people and their caregivers, with a full REST API backend and caregiver management
+[![Mnesya](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=mnesya&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/mnesya)
+[![Invozy](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=invozy-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/invozy-project)
 
-### [🧾 Invozy](https://github.com/krapaud/invozy-project)
+[![Holbies Learning Hub](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holbies-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/holbies-project)
+[![CyberSecurity](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holbertonschool-cybersecurity&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/holbertonschool-cybersecurity)
 
-**Python, FastAPI, PostgreSQL, WeasyPrint** - SaaS invoicing platform for French freelancers and small businesses — quotes, invoices, PDF export, Factur-X EN 16931 compliance, Gmail OAuth, Google Calendar sync
+[![HBNB AirBnB Clone](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holbertonschool-hbnb&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/holbertonschool-hbnb)
+[![Simple Shell](https://github-readme-stats.vercel.app/api/pin/?username=krapaud&repo=holberton-simple_shell&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)](https://github.com/krapaud/holberton-simple_shell)
 
-### [🧠 Holbies Learning Hub](https://github.com/krapaud/holbies-project)
+</div>
 
-**FastAPI, PostgreSQL, AI, JWT** - Interactive quiz system with a Matrix theme for technical learning — 50+ questions, AI-powered grading, performance tracking, REST API with Swagger
-
-### [🔐 CyberSecurity — Holberton](https://github.com/krapaud/holbertonschool-cybersecurity)
-
-**Shell, Python** - CyberSecurity curriculum at Holberton School: network security, vulnerabilities, and security tools
-
-### [🏠 HBNB — AirBnB Clone](https://github.com/krapaud/holbertonschool-hbnb)
-
-**Python, Flask, SQLAlchemy** - Full-stack web application clone of AirBnB with RESTful API and database integration
-
-### [🐚 Simple Shell](https://github.com/krapaud/holberton-simple_shell)
-
-**C** - Unix shell implementation with command execution, environment variables, and built-in commands
-
-## Let's Connect
+## Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/krapaud)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://krapaud.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickael-mur-b13035371/)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krapaud&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7)](https://github.com/krapaud)
 
 </div>
 
@@ -110,16 +109,8 @@ const mickael = {
 
 <div align="center">
 
-### Random Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### Profile Views
-
 ![Profile Views](https://komarev.com/ghpvc/?username=krapaud&color=blueviolet&style=flat-square&label=Profile+Views)
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&animation=twinkling&fontColor=ffffff" width="100%" alt="Footer" />
 
 </div>
