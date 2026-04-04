@@ -72,25 +72,29 @@ const mickael = {
 
 ## Featured Projects
 
+### [📱 Mnesya](https://github.com/krapaud/mnesya)
+
+**React Native, Expo, FastAPI, PostgreSQL** - Mobile reminder application for elderly people and their caregivers, with a full REST API backend and caregiver management
+
+### [🧾 Invozy](https://github.com/krapaud/invozy-project)
+
+**Python, FastAPI, PostgreSQL, WeasyPrint** - SaaS invoicing platform for French freelancers and small businesses — quotes, invoices, PDF export, Factur-X EN 16931 compliance, Gmail OAuth, Google Calendar sync
+
+### [🧠 Holbies Learning Hub](https://github.com/krapaud/holbies-project)
+
+**FastAPI, PostgreSQL, AI, JWT** - Interactive quiz system with a Matrix theme for technical learning — 50+ questions, AI-powered grading, performance tracking, REST API with Swagger
+
 ### [🔐 CyberSecurity — Holberton](https://github.com/krapaud/holbertonschool-cybersecurity)
 
 **Shell, Python** - CyberSecurity curriculum at Holberton School: network security, vulnerabilities, and security tools
-
-### [🐚 Simple Shell](https://github.com/krapaud/holberton-simple_shell)
-
-**C Programming** - Unix shell implementation with command execution, environment variables, and built-in commands
 
 ### [🏠 HBNB — AirBnB Clone](https://github.com/krapaud/holbertonschool-hbnb)
 
 **Python, Flask, SQLAlchemy** - Full-stack web application clone of AirBnB with RESTful API and database integration
 
-### [🐳 Softy Pinko Docker](https://github.com/krapaud/holbertonschool-softy-pinko-docker)
+### [🐚 Simple Shell](https://github.com/krapaud/holberton-simple_shell)
 
-**Docker, DevOps** - Dockerized web application deployment project
-
-### [🎃 Hackathon Syntax Horror](https://github.com/krapaud/hackaton-syntax-horror)
-
-**Python** - Hackathon project exploring creative coding solutions
+**C** - Unix shell implementation with command execution, environment variables, and built-in commands
 
 ## Let's Connect
 
