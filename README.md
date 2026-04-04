@@ -35,7 +35,7 @@ const mickael = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=krapaud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krapaud&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="165" />
+<img src="https://streak-stats.demolab.com?user=krapaud&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="165" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krapaud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff&langs_count=8" alt="Top Languages" height="130" />
 
@@ -165,7 +165,7 @@ Unix shell implementation with command execution, environment variables, and bui
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krapaud&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true&area_color=A855F7)](https://github.com/krapaud)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krapaud&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area=true)](https://github.com/krapaud)
 
 </div>
 
